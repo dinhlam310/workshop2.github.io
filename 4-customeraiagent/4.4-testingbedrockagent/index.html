@@ -886,7 +886,7 @@
 <p>Before testing the agent, you must prepare it. In the Test window, select <strong>Prepare.</strong></p>
 </li>
 </ol>
-<p><img alt="Prepare" src="workshop2.github.io/images/4.CustomerAIAgent/4-1-1.png"></p>
+<p><img alt="Prepare" src="/workshop2.github.io/images/4.CustomerAIAgent/4-1-1.png"></p>
 
 <div class="notices note" ><p>Every time you update the working draft, you must prepare the agent to package the agent with your latest changes. As a best practice, we recommend that you always check your agent&rsquo;s Last prepared time in the Agent overview section of the Working draft page to verify that you&rsquo;re testing your agent with the latest configurations.</p>
 </div>
@@ -898,12 +898,12 @@
 </code></pre><ol start="5">
 <li>While you wait for the response to generate or after it is generated, select <strong>Show trace.</strong></li>
 </ol>
-<p><img alt="Trace" src="workshop2.github.io/images/4.CustomerAIAgent/4-4-2.png"></p>
+<p><img alt="Trace" src="/workshop2.github.io/images/4.CustomerAIAgent/4-4-2.png"></p>
 <p>Trace shows details for each step of the agent&rsquo;s orchestration process, including the prompt, inference configurations, and agent&rsquo;s reasoning process for each step and usage of its action groups and knowledge bases.</p>
 <ul>
 <li>In the <strong>Orchestration and knowledge base</strong> tab, Expand <strong>Trace Step 1</strong> and scroll down. Notice the additional context provided and how the prompt is engineered to create the best response from the model.</li>
 </ul>
-<p><img alt="Trace" src="workshop2.github.io/images/4.CustomerAIAgent/4-4-3.png"></p>
+<p><img alt="Trace" src="/workshop2.github.io/images/4.CustomerAIAgent/4-4-3.png"></p>
 <p>When provided with a the simple greeting, the agent responds with a simple greeting back to the user.</p>
 <ol start="6">
 <li>Ask the agent to find information about a customer using the customer ID.</li>
@@ -917,11 +917,11 @@
 <p>In the <strong>Orchestration and knowledge base, Trace Step 2,</strong> note how the agent decided to invoke the function.</p>
 </li>
 </ul>
-<p><img alt="Trace" src="workshop2.github.io/images/4.CustomerAIAgent/4-4-4.png"></p>
+<p><img alt="Trace" src="/workshop2.github.io/images/4.CustomerAIAgent/4-4-4.png"></p>
 <ul>
 <li>In the final response, you should see the details for this customer, including products purchased and support tickets from both Ampwerks and Ohmzio.</li>
 </ul>
-<p><img alt="Trace" src="workshop2.github.io/images/4.CustomerAIAgent/4-4-5.png"></p>
+<p><img alt="Trace" src="/workshop2.github.io/images/4.CustomerAIAgent/4-4-5.png"></p>
 
 <div class="notices note" ><p>Remember, your output may look different based on variances in the large language models.
 7. Ask for more information to help the customer with an issue.</p>
@@ -937,7 +937,7 @@ The smart feeder is dispensing inconsistent amounts of food.
 <p>Notice how the agent uses the customer information as well as related support tickets from the knowledge base to create a response.</p>
 </li>
 </ul>
-<p><img alt="Trace" src="workshop2.github.io/images/4.CustomerAIAgent/4-4-6.png"></p>
+<p><img alt="Trace" src="/workshop2.github.io/images/4.CustomerAIAgent/4-4-6.png"></p>
 <p>Also notice the <strong>[1]</strong> in the response. Click the footnote to show the knowledge base document used to find the answer. In this instance, the agent was able to find relevant information from past Ohmzio support tickets.</p>
 <ol start="8">
 <li>Continue the dialog.</li>
@@ -945,9 +945,9 @@ The smart feeder is dispensing inconsistent amounts of food.
 <pre tabindex="0"><code>The customer checked the chute and there are no jams. What else could it be?
 </code></pre><p>The agent responds with additional troubleshooting tips, including a suggestion for recalibration. You can respond by asking for more instructions.</p>
 <pre tabindex="0"><code>How do I recalibrate the smart feeder?
-</code></pre><p><img alt="Trace" src="workshop2.github.io/images/4.CustomerAIAgent/4-4-7.png"></p>
+</code></pre><p><img alt="Trace" src="/workshop2.github.io/images/4.CustomerAIAgent/4-4-7.png"></p>
 <pre tabindex="0"><code>The recalibration worked. The feeder is now dispensing the correct amount of food.
-</code></pre><p><img alt="Trace" src="workshop2.github.io/images/4.CustomerAIAgent/4-4-8.png"></p>
+</code></pre><p><img alt="Trace" src="/workshop2.github.io/images/4.CustomerAIAgent/4-4-8.png"></p>
 <ol start="9">
 <li>Experiment by asking a few more questions. To start a new conversation, use additional customer IDs that can be found in the DynamoDB table. Here are a few to try:</li>
 </ol>
