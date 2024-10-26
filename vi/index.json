@@ -1,0 +1,162 @@
+[
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/",
+	"title": "Workshop đầu tiên của tôi",
+	"tags": [],
+	"description": "",
+	"content": "First Cloud Journey - Workshop đầu tiên Tổng quan Trong bài workshop đầu tiên này, bạn sẽ tìm hiểu những kiến ​​thức cơ bản và thực hành cách triển khai một trang web đơn giản. Ngoài ra, bạn có thể tìm hiểu thêm về 6 trụ cột Well-Architecture .\nNội dung Giới thiệu Các bước chuẩn bị Dọn dẹp tài nguyên 6 trụ cột Well-Architecture "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/",
+	"title": "Giới thiệu",
+	"tags": [],
+	"description": "",
+	"content": "Trên không gian mạng , có vô số các trang web tĩnh/động được sử dụng hàng ngày , tuy nhiên không phải trang web nào cũng có 1 hệ thống có thiết kế đủ tốt để phòng ngừa , chống lại các hành vi không mong muốn xảy ra như : Sập trang web do số lượng người dùng đột biến , máy chủ bỗng dừng hoạt động , sử dụng hệ thống on-premise không đảm bảo.\nVới việc triển khai một trang web trên AWS, bạn sẽ có được những ưu điểm sau:\nCó thể xử lý , triển khai trang web nhanh cho người dùng cuối Khả năng bảo mật cao , chống lại sự tấn công của kẻ xấu Khả năng mở rộng dễ dàng , tự động theo lượng nhu cầu sử dụng của khách hàng Quản lý tập trung tài nguyên hệ thống , giao diện thân thiện \u0026hellip;.. Với những ưu điểm trên, tôi đã làm bài workshop này để hướng dẫn mọi người tận dụng các ưu điểm đó , phòng ngừa các hành vi trên để triển khai một trang web tĩnh . Hãy cùng mình đi tiếp vào phần sau để hiểu rõ về thiết kế hệ thống ra sao.\n"
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/1.1-setup/1.1.1-awsworkshopstudio/",
+	"title": "Tổng quan kiến trúc",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan kiến trúc sau khi các bạn hoàn tất các bước xây dựng hệ thống sẽ như sau:\nNội dung Tạo VPC, subnet và security group Tạo Target group và Load Balancer Tạo Launch template Tạo Auto Scaling Group Tạo IP Sets và Web ACLs Đọc Metric với Cloudwatch "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/1.1-setup/1.1.2-selfpacedworkshop/",
+	"title": "Tổng quan kiến trúc",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan kiến trúc sau khi các bạn hoàn tất các bước xây dựng hệ thống sẽ như sau:\nNội dung Tạo VPC, subnet và security group Tạo Target group và Load Balancer Tạo Launch template Tạo Auto Scaling Group Tạo IP Sets và Web ACLs Đọc Metric với Cloudwatch "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/1.1-setup/",
+	"title": "Tổng quan kiến trúc",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan kiến trúc sau khi các bạn hoàn tất các bước xây dựng hệ thống sẽ như sau:\nNội dung Tạo VPC, subnet và security group Tạo Target group và Load Balancer Tạo Launch template Tạo Auto Scaling Group Tạo IP Sets và Web ACLs Đọc Metric với Cloudwatch "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.1-managingquicksightassets/",
+	"title": "Tổng quan kiến trúc",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan kiến trúc sau khi các bạn hoàn tất các bước xây dựng hệ thống sẽ như sau:\nNội dung Tạo VPC, subnet và security group Tạo Target group và Load Balancer Tạo Launch template Tạo Auto Scaling Group Tạo IP Sets và Web ACLs Đọc Metric với Cloudwatch "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.2-creatingquicksightdatasets/",
+	"title": "Tổng quan kiến trúc",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan kiến trúc sau khi các bạn hoàn tất các bước xây dựng hệ thống sẽ như sau:\nNội dung Tạo VPC, subnet và security group Tạo Target group và Load Balancer Tạo Launch template Tạo Auto Scaling Group Tạo IP Sets và Web ACLs Đọc Metric với Cloudwatch "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.3-ohmzioquicksightdashboard/",
+	"title": "Tổng quan kiến trúc",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan kiến trúc sau khi các bạn hoàn tất các bước xây dựng hệ thống sẽ như sau:\nNội dung Tạo VPC, subnet và security group Tạo Target group và Load Balancer Tạo Launch template Tạo Auto Scaling Group Tạo IP Sets và Web ACLs Đọc Metric với Cloudwatch "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.4-conclusion/",
+	"title": "Tổng quan kiến trúc",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan kiến trúc sau khi các bạn hoàn tất các bước xây dựng hệ thống sẽ như sau:\nNội dung Tạo VPC, subnet và security group Tạo Target group và Load Balancer Tạo Launch template Tạo Auto Scaling Group Tạo IP Sets và Web ACLs Đọc Metric với Cloudwatch "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/3.1-createknowledgebase/",
+	"title": "Tổng quan kiến trúc",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan kiến trúc sau khi các bạn hoàn tất các bước xây dựng hệ thống sẽ như sau:\nNội dung Tạo VPC, subnet và security group Tạo Target group và Load Balancer Tạo Launch template Tạo Auto Scaling Group Tạo IP Sets và Web ACLs Đọc Metric với Cloudwatch "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/3.2-testknowledgebase/",
+	"title": "Tổng quan kiến trúc",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan kiến trúc sau khi các bạn hoàn tất các bước xây dựng hệ thống sẽ như sau:\nNội dung Tạo VPC, subnet và security group Tạo Target group và Load Balancer Tạo Launch template Tạo Auto Scaling Group Tạo IP Sets và Web ACLs Đọc Metric với Cloudwatch "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/3.3-conclusion/",
+	"title": "Tổng quan kiến trúc",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan kiến trúc sau khi các bạn hoàn tất các bước xây dựng hệ thống sẽ như sau:\nNội dung Tạo VPC, subnet và security group Tạo Target group và Load Balancer Tạo Launch template Tạo Auto Scaling Group Tạo IP Sets và Web ACLs Đọc Metric với Cloudwatch "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.1-createbedrockagent/",
+	"title": "Tổng quan kiến trúc",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan kiến trúc sau khi các bạn hoàn tất các bước xây dựng hệ thống sẽ như sau:\nNội dung Tạo VPC, subnet và security group Tạo Target group và Load Balancer Tạo Launch template Tạo Auto Scaling Group Tạo IP Sets và Web ACLs Đọc Metric với Cloudwatch "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.2-configuringlambdapermissions/",
+	"title": "Tổng quan kiến trúc",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan kiến trúc sau khi các bạn hoàn tất các bước xây dựng hệ thống sẽ như sau:\nNội dung Tạo VPC, subnet và security group Tạo Target group và Load Balancer Tạo Launch template Tạo Auto Scaling Group Tạo IP Sets và Web ACLs Đọc Metric với Cloudwatch "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.3-addingactiongroup/",
+	"title": "Tổng quan kiến trúc",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan kiến trúc sau khi các bạn hoàn tất các bước xây dựng hệ thống sẽ như sau:\nNội dung Tạo VPC, subnet và security group Tạo Target group và Load Balancer Tạo Launch template Tạo Auto Scaling Group Tạo IP Sets và Web ACLs Đọc Metric với Cloudwatch "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.4-testingbedrockagent/",
+	"title": "Tổng quan kiến trúc",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan kiến trúc sau khi các bạn hoàn tất các bước xây dựng hệ thống sẽ như sau:\nNội dung Tạo VPC, subnet và security group Tạo Target group và Load Balancer Tạo Launch template Tạo Auto Scaling Group Tạo IP Sets và Web ACLs Đọc Metric với Cloudwatch "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.5-conclusion/",
+	"title": "Tổng quan kiến trúc",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan kiến trúc sau khi các bạn hoàn tất các bước xây dựng hệ thống sẽ như sau:\nNội dung Tạo VPC, subnet và security group Tạo Target group và Load Balancer Tạo Launch template Tạo Auto Scaling Group Tạo IP Sets và Web ACLs Đọc Metric với Cloudwatch "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/",
+	"title": "Các bước chuẩn bị",
+	"tags": [],
+	"description": "",
+	"content": "\rBài workshop này yêu cầu bạn có kiến thức cơ bản về VPC , EC2 , public/private subnet để thực hiện bài thực hành này.\nĐể tìm hiểu cách tạo các EC2 instance và VPC với public/private subnet các bạn có thể tham khảo bài lab :\nGiới thiệu về Amazon EC2 Làm việc với Amazon VPC Nội dung Sơ đồ hệ thống , cách triển khai kiến trúc "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/",
+	"title": "Dọn dẹp tài nguyên  ",
+	"tags": [],
+	"description": "",
+	"content": "Chúng ta sẽ tiến hành các bước sau để xóa các tài nguyên chúng ta đã tạo trong bài thực hành này.\nXóa Auto Scaling Group Truy cập giao diện quản trị dịch vụ EC2 Kéo xuống dưới cùng và chọn Auto Scaling Groups Tích chọn MyASG Click Actions Click Delete Tại ô confirm, điền thông tin để xác nhận xóa Xóa Load Balancer Truy cập giao diện quản trị dịch vụ EC2 Kéo xuống dưới và chọn Load Balancers Tích chọn ALB1 Click Actions Click Delete load balancer Tại ô confirm, điền thông tin để xác nhận xóa Xóa Launch Template Truy cập giao diện quản trị dịch vụ EC2 Kéo xuống dưới và chọn Launch Templates Tích chọn MyLT1 Click Actions Click Delete template Tại ô confirm, điền thông tin để xác nhận xóa Xóa Target Group Truy cập giao diện quản trị dịch vụ EC2 Kéo xuống dưới và chọn Target Groups Tích chọn TG1 Click Actions Click Deleter Tại ô confirm, điền thông tin để xác nhận xóa Xóa VPC Truy cập vào giao diện quản trị dịch vụ VPC Click Your VPCs. Click chọn ASG-ALB-vpc. Click Actions. Click Delete VPC. Tại ô confirm, điền delete để xác nhận, click Delete để thực hiện xóa Lab VPC và các tài nguyên liên quan. "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/",
+	"title": "Well-Architecture là gì nhỉ ?",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan về Framework AWS Well-Architected Framework diễn tả các ý chính, nguyên lý thiết kế, và các biện pháp kiến ​​trúc tốt nhất để thiết kế và chạy khối lượng công việc lớn trên đám mây.\nNội dung chính 6 trụ cột Well-Architect Operational Excellence Pillar Security Pillar Reliability Pillar (Đang cập nhật) Performance Efficiency Pillar (Đang cập nhật) Cost Optimization Pillar (Đang cập nhật) Sustainability Pillar (Đang cập nhật) Bạn có thể tìm đọc thêm trong tài liệu chính thức của AWS Tài liệu chính thức của AWS "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/5-cleanup/",
+	"title": "Well-Architecture là gì nhỉ ?",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan về Framework AWS Well-Architected Framework diễn tả các ý chính, nguyên lý thiết kế, và các biện pháp kiến ​​trúc tốt nhất để thiết kế và chạy khối lượng công việc lớn trên đám mây.\nNội dung chính 6 trụ cột Well-Architect Operational Excellence Pillar Security Pillar Reliability Pillar (Đang cập nhật) Performance Efficiency Pillar (Đang cập nhật) Cost Optimization Pillar (Đang cập nhật) Sustainability Pillar (Đang cập nhật) Bạn có thể tìm đọc thêm trong tài liệu chính thức của AWS Tài liệu chính thức của AWS "
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://dinhlam310.github.io/workshop2.github.io/vi/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
