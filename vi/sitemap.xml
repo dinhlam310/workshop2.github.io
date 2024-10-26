@@ -2,31 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/</loc>
-    <lastmod>1970-01-01T07:33:42+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhlam310.github.io/workshop2.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhlam310.github.io/workshop2.github.io/vi/"
-                />
-  </url><url>
-    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhlam310.github.io/workshop2.github.io/1-introduce/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/"
-                />
-  </url><url>
     <loc>https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/1.1-setup/1.1.1-awsworkshopstudio/</loc>
     <xhtml:link
                 rel="alternate"
@@ -37,54 +12,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/1.1-setup/1.1.1-awsworkshopstudio/"
-                />
-  </url><url>
-    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/1.1-setup/1.1.2-selfpacedworkshop/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhlam310.github.io/workshop2.github.io/1-introduce/1.1-setup/1.1.2-selfpacedworkshop/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/1.1-setup/1.1.2-selfpacedworkshop/"
-                />
-  </url><url>
-    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/1.1-setup/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhlam310.github.io/workshop2.github.io/1-introduce/1.1-setup/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/1.1-setup/"
-                />
-  </url><url>
-    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.1-managingquicksightassets/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhlam310.github.io/workshop2.github.io/2-datadiscovery/2.1-managingquicksightassets/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.1-managingquicksightassets/"
-                />
-  </url><url>
-    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.2-creatingquicksightdatasets/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhlam310.github.io/workshop2.github.io/2-datadiscovery/2.2-creatingquicksightdatasets/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.2-creatingquicksightdatasets/"
                 />
   </url><url>
     <loc>https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.3-ohmzioquicksightdashboard/</loc>
@@ -99,52 +26,28 @@
                 href="https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.3-ohmzioquicksightdashboard/"
                 />
   </url><url>
-    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.4-conclusion/</loc>
+    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/1.1-setup/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dinhlam310.github.io/workshop2.github.io/2-datadiscovery/2.4-conclusion/"
+                href="https://dinhlam310.github.io/workshop2.github.io/1-introduce/1.1-setup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.4-conclusion/"
+                href="https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/1.1-setup/"
                 />
   </url><url>
-    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/3.1-createknowledgebase/</loc>
+    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dinhlam310.github.io/workshop2.github.io/3-supportknowledgebase/3.1-createknowledgebase/"
+                href="https://dinhlam310.github.io/workshop2.github.io/1-introduce/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/3.1-createknowledgebase/"
-                />
-  </url><url>
-    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/3.2-testknowledgebase/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhlam310.github.io/workshop2.github.io/3-supportknowledgebase/3.2-testknowledgebase/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/3.2-testknowledgebase/"
-                />
-  </url><url>
-    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/3.3-conclusion/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhlam310.github.io/workshop2.github.io/3-supportknowledgebase/3.3-conclusion/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/3.3-conclusion/"
+                href="https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/"
                 />
   </url><url>
     <loc>https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.1-createbedrockagent/</loc>
@@ -159,6 +62,42 @@
                 href="https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.1-createbedrockagent/"
                 />
   </url><url>
+    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.1-managingquicksightassets/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhlam310.github.io/workshop2.github.io/2-datadiscovery/2.1-managingquicksightassets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.1-managingquicksightassets/"
+                />
+  </url><url>
+    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/3.1-createknowledgebase/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhlam310.github.io/workshop2.github.io/3-supportknowledgebase/3.1-createknowledgebase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/3.1-createknowledgebase/"
+                />
+  </url><url>
+    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhlam310.github.io/workshop2.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhlam310.github.io/workshop2.github.io/vi/"
+                />
+  </url><url>
     <loc>https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.2-configuringlambdapermissions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -169,42 +108,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.2-configuringlambdapermissions/"
-                />
-  </url><url>
-    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.3-addingactiongroup/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhlam310.github.io/workshop2.github.io/4-customeraiagent/4.3-addingactiongroup/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.3-addingactiongroup/"
-                />
-  </url><url>
-    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.4-testingbedrockagent/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhlam310.github.io/workshop2.github.io/4-customeraiagent/4.4-testingbedrockagent/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.4-testingbedrockagent/"
-                />
-  </url><url>
-    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.5-conclusion/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhlam310.github.io/workshop2.github.io/4-customeraiagent/4.5-conclusion/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.5-conclusion/"
                 />
   </url><url>
     <loc>https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/</loc>
@@ -219,8 +122,43 @@
                 href="https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/"
                 />
   </url><url>
+    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/3.2-testknowledgebase/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhlam310.github.io/workshop2.github.io/3-supportknowledgebase/3.2-testknowledgebase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/3.2-testknowledgebase/"
+                />
+  </url><url>
+    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.2-creatingquicksightdatasets/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhlam310.github.io/workshop2.github.io/2-datadiscovery/2.2-creatingquicksightdatasets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.2-creatingquicksightdatasets/"
+                />
+  </url><url>
+    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/1.1-setup/1.1.2-selfpacedworkshop/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhlam310.github.io/workshop2.github.io/1-introduce/1.1-setup/1.1.2-selfpacedworkshop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhlam310.github.io/workshop2.github.io/vi/1-introduce/1.1-setup/1.1.2-selfpacedworkshop/"
+                />
+  </url><url>
     <loc>https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/</loc>
-    <lastmod>1970-01-01T07:33:42+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -230,6 +168,30 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/"
+                />
+  </url><url>
+    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/3.3-conclusion/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhlam310.github.io/workshop2.github.io/3-supportknowledgebase/3.3-conclusion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhlam310.github.io/workshop2.github.io/vi/3-supportknowledgebase/3.3-conclusion/"
+                />
+  </url><url>
+    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.3-addingactiongroup/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhlam310.github.io/workshop2.github.io/4-customeraiagent/4.3-addingactiongroup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.3-addingactiongroup/"
                 />
   </url><url>
     <loc>https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/</loc>
@@ -244,6 +206,30 @@
                 href="https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/"
                 />
   </url><url>
+    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.4-testingbedrockagent/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhlam310.github.io/workshop2.github.io/4-customeraiagent/4.4-testingbedrockagent/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.4-testingbedrockagent/"
+                />
+  </url><url>
+    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.4-conclusion/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhlam310.github.io/workshop2.github.io/2-datadiscovery/2.4-conclusion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhlam310.github.io/workshop2.github.io/vi/2-datadiscovery/2.4-conclusion/"
+                />
+  </url><url>
     <loc>https://dinhlam310.github.io/workshop2.github.io/vi/5-cleanup/</loc>
     <xhtml:link
                 rel="alternate"
@@ -254,6 +240,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://dinhlam310.github.io/workshop2.github.io/vi/5-cleanup/"
+                />
+  </url><url>
+    <loc>https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.5-conclusion/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhlam310.github.io/workshop2.github.io/4-customeraiagent/4.5-conclusion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhlam310.github.io/workshop2.github.io/vi/4-customeraiagent/4.5-conclusion/"
                 />
   </url><url>
     <loc>https://dinhlam310.github.io/workshop2.github.io/vi/categories/</loc>
